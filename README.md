@@ -1,7 +1,7 @@
 <h3 align="center">Desk Client</h3>
 
-Estamos sempre atualizando a ferramenta. Por conta disso, as vezes consultas podem ficar **offline** temporariamente. 
-Iremos avisar aqui quando cada ferramentas for atualizada!
+Desk Client
+Apenas um ferramenta totalmente brasileira desenvolvida pela desk community
 Para você executar o **Desk Client** é nescessario ter o python instalado e para isso você pode baixar no site oficial do python clicando [**Aqui!**](https://www.python.org/downloads/) ou pode utilizar o [**Replit!**](https://replit.com/~)
 
 <h3 align="left">Desk Community :</h3>
