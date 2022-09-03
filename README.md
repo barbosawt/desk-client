@@ -4,7 +4,7 @@
 ㅤ
 <h3 align="center">Apenas um ferramenta totalmente brasileira desenvolvida pela desk community</h3>
 
-<h3 align="center">Features atualmente disponíveis : </h3>
+Features atualmente disponíveis
 <h3 align="center">Ddos</h3>
 <h3 align="center">Derrubar video tiktok</h3>
 
