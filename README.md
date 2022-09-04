@@ -4,7 +4,8 @@
 ㅤ
 <h3 align="center">Apenas um ferramenta totalmente brasileira desenvolvida pela desk community</h3>
 
-- [x] DDOS
+- [x] DDOS 
+- [x] IP SCANNER
 - [x] DERRUBAR VIDEO TIKTOK
 
 
