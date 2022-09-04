@@ -1,6 +1,7 @@
-import socket, random, time, http.client, json, os
+import socket, random, time, http.client, json, os, subprocess
 from termcolor import colored
-from colorama import Fore, Back, Style
+from colorama import Fore, Back, Style 
+startTime = time.time()
 
 def painel():
   print("""
@@ -11,7 +12,7 @@ def painel():
   print('')
 
 painel()
-print('1 - DDOS \n2 - DERRUBAR VIDEO DE TIKTOK')
+print('1 - DDOS \n2 - DERRUBAR VIDEO DE TIKTOK ( UTILIZE VPN ) \n3 - IP SCANNER')
 select = int(input('\nEscolha uma opção: '))
 
 if select == 1:
@@ -32,7 +33,7 @@ if select == 1:
     time.sleep(sleep)
     
 
-elif select ==2:
+if select ==2:
   os.system('cls' if os.name == 'nt' else 'clear')
 
   painel()
@@ -69,6 +70,13 @@ elif select ==2:
       res = conn.getresponse()
       data = res.read()
       print("Denúncia enviada com sucesso by Desk Client v3' ")
+
+elif select ==3:
+  os.system('cls' if os.name == 'nt' else 'clear')
+
+  painel()
+  
+  exec(open("ipscanner.py").read())
 
 else:
   os.system('cls' if os.name == 'nt' else 'clear')
