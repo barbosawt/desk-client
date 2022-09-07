@@ -2,6 +2,20 @@ from socket import *
 import time
 startTime = time.time()
 
+print("""
+_ ___      ____ ____ ____ _  _ _  _ ____ ____ 
+| |__]     [__  |    |__| |\ | |\ | |___ |__/ 
+| |        ___] |___ |  | | \| | \| |___ |  \ 
+
+
+
+  Discord ┃ https://discord.gg/desk
+  
+  Youtube ┃ https://www.youtube.com/c/DeskCommunity     
+  
+  
+  """)
+
 if __name__ == '__main__':
    target = input('Digite o host a ser verificado: ')
    t_IP = gethostbyname(target)
